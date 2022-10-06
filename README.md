@@ -14,7 +14,6 @@ All the code is included in the attached [notebook](Data_Science_Project.ipynb).
 
 In this report we present the data used and the preprocessing steps implemented. This is followed by high-level explorations of the data using a variety of visualization tools including **choropleth heatmaps**, **density heatmaps**, **histograms**, **scatter plots** and more. An **analysis of the yearly changes** is presented, along with **linear regression models that try and derive trends over time**. The next chapter explores the **differences in sustainable building between local authorities**. Similar analysis of additional metrics (score, rank, type of construction projects) is included in the following chapter. Finally, a demonstration of **fitting multiple linear regression models that are based on demographic data to predict the volume of sustainable building**. This method is used to **derive interesting conclusion on the connection between demographic metrics of local authorities and sustainable building.**
 
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/he/thumb/9/92/Israel_Ministry_of_the_Environment_Logo.svg/1024px-Israel_Ministry_of_the_Environment_Logo.svg.png" width=15%>
     <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png" width=40%>
